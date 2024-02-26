@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    display: flex;
+    flex: 1;
+
+}
+.heading-1{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 38px;
+    font-weight: bold;
+  }
+  
+  
+.container{
+    width: 450px;
+    height: fit-content;
+    border: 5px solid yellow;
+    margin: 50px auto;
+    padding: 40px;
+    background-color:black;
+    
+    text-align: center;
+    color:white;
+    border-radius: 20px;
+    
+    
+    
+
+    
+}
+.heading-1{
+    text-decoration: underline;
+
+}
+.btn{
+    padding: 5px;
+    border-radius: 12px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.nishant{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    font-weight: bold;
+
+}
